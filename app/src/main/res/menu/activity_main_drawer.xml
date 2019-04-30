@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_addContact"
+            android:icon="@drawable/contact8"
+            android:title="@string/title_add_contact" />
+        <item
+            android:id="@+id/nav_seeHistory"
+            android:icon="@drawable/contact_history"
+            android:title="@string/title_contact_history" />
+
+    </group>
+
+    <item android:title="Know About Developer">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="About Us" />
+
+        </menu>
+    </item>
+
+</menu>

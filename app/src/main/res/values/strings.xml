@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Easy_Find</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To Easy Find!</string>
+    <string name="slide_1_desc">The easiest and smart way to get all Your contacts and do opeartions on it.</string>
+
+    <string name="slide_2_title">\'Remote\' Contact Search!</string>
+    <string name="slide_2_desc">Just Text a sms with name of person and get the contact number texted back to you.</string>
+
+    <string name="slide_3_title">Search and Call Contacts!</string>
+    <string name="slide_3_desc">Search Your contacts easily by name or number from the search bar and click to call the person.</string>
+
+    <string name="slide_4_title">Add new Contact!</string>
+    <string name="slide_4_desc">Add a new contact from this app and will be saved to default phone storage.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="title_add_contact">Add New Contact</string>
+    <string name="hnt_et_name"> Display Name</string>
+    <string name="hnt_et_mobile_phone"> Mobile Phone</string>
+    <string name="hnt_et_home_phone"> Home Phone(Optional)</string>
+    <string name="hnt_et_home_email"> Home Email(Optional)</string>
+    <string name="hnt_et_work_email"> Work Email(Optional)</string>
+    <string name="str_btn_add">Add Contact</string>
+    <string name="title_contact_history">Sms Contact History</string>
+
+    <string name="alert_about">This Project is Created by Sayeedul Rahman as an assignment of CSE226 End Term Exam 2019.\n@All Rights Reserved,2019</string>
+
+</resources>
